@@ -1,3 +1,6 @@
+# Prerequisit
+ERC-721
+
 # tech stack 
 ### Next js 
 - server side react
